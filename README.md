@@ -23,11 +23,9 @@ To address these challenges, this project introduces a web-based anonymous feedb
 Students can use the platform to share their thoughts on courses, instructors, and university services. Faculty and administrators can analyze collected feedback to improve teaching methods, course structures, and campus services.
 
 ## Author
-[Your Name]
+Khenneth D. Malinao
+BSCS - 4
 
 ## Acknowledgments
-Special thanks to [adviser/professor/organization] for their guidance and support throughout the development of this project.
-
-## Contact
-For inquiries, please contact [Your Email or Institution].
+Special thanks to my thesis adviser and the members of my SRC for their guidance and support throughout the development of this project.
 
