@@ -1,7 +1,7 @@
 # README
 
 ## Project Title
-Web-Based Anonymous Student Feedback Box for Visayas State University
+DEVELOPMENT OF A WEB-BASED ANONYMOUS STUDENT FEEDBACK BOX APPLICATION FOR THE VISAYAS STATE UNIVERSITY
 
 ## Description
 This project focuses on developing a web-based anonymous feedback system for Visayas State University. The goal is to create a platform where students can provide honest feedback about courses, instructors, and university services without fear of repercussions. The system aims to foster open communication, improve educational quality, and enhance the overall student experience.
