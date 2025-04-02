@@ -28,3 +28,4 @@ backend/src/serviceAccountKey.json
 
 firebase.ts
 .env
+.env*.local
