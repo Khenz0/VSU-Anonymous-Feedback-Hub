@@ -27,3 +27,4 @@ dist-ssr
 backend/src/serviceAccountKey.json
 
 firebase.ts
+.env
